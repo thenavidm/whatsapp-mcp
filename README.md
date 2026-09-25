@@ -14,7 +14,7 @@ Sending is off until you turn it on, limited to the chats you allow, and every a
 
 One Go binary. No Python, no Docker, no second process.
 
-Built and maintained by [Navid Moazzez](https://navid.me?utm_source=github&utm_medium=readme&utm_campaign=whatsapp-mcp).
+Built and maintained by [Navid Moazzez](https://navid.me?utm_source=github&utm_medium=referral&utm_campaign=whatsapp-mcp&utm_content=readme).
 
 <img src="https://cdn.navid.media/repos/whatsapp-mcp.gif?v=1" alt="Claude Code using the WhatsApp MCP server" width="520">
 
