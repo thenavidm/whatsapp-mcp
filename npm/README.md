@@ -1079,4 +1079,4 @@ Not affiliated with, endorsed by, or connected to WhatsApp or Meta Platforms, In
 
 ---
 
-© 2026 [NM Media](https://navid.media?utm_source=github&utm_medium=referral&utm_campaign=whatsapp-mcp&utm_content=readme). Made with ❤️ by [Navid Moazzez](https://navid.me?utm_source=github&utm_medium=referral&utm_campaign=whatsapp-mcp&utm_content=readme).
+© 2026 [Navid Media](https://navid.media?utm_source=github&utm_medium=referral&utm_campaign=whatsapp-mcp&utm_content=readme). Made with ❤️ by [Navid Moazzez](https://navid.me?utm_source=github&utm_medium=referral&utm_campaign=whatsapp-mcp&utm_content=readme).
