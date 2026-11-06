@@ -1007,9 +1007,30 @@ directory.
 
 Run into a problem or have a question? [Open an issue](https://github.com/thenavidm/whatsapp-mcp/issues) and I will help.
 
-## About the author
+## Built by
+
+<table>
+<tr>
+<td width="150" align="center" valign="top"><h3><a href="https://navid.me"><img src="https://cdn.navid.me/navid-moazzez.jpg" width="120" height="120" alt="Navid Moazzez"></a></h3></td>
+<td valign="top">
+
+### Navid Moazzez
 
 Navid Moazzez is a leading AI business strategist, and the host of the AI Creator Summit, watched by 100,000+ creators. He helps creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. He creates useful free tools, MCP servers and CLIs that creators and founders can use in their own workflows.
+
+<a href="https://navid.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-navid-me-dark.svg"><img src="https://cdn.navid.me/repos/about-navid-me-light.svg" alt="navid.me" height="30"></picture></a>
+<a href="https://navid.bio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-navid-bio-dark.svg"><img src="https://cdn.navid.me/repos/about-navid-bio-light.svg" alt="navid.bio" height="30"></picture></a>
+<a href="https://navid.media"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-navid-media-dark.svg"><img src="https://cdn.navid.me/repos/about-navid-media-light.svg" alt="Navid Media" height="30"></picture></a>
+<a href="https://youtube.com/@thenavidm?sub_confirmation=1"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-youtube-dark.svg"><img src="https://cdn.navid.me/repos/about-youtube-light.svg" alt="YouTube" height="30"></picture></a>
+<a href="https://youtube.com/@thenavidai?sub_confirmation=1"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-youtube-ai-dark.svg"><img src="https://cdn.navid.me/repos/about-youtube-ai-light.svg" alt="AI channel" height="30"></picture></a>
+<a href="https://x.com/thenavidm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-x-dark.svg"><img src="https://cdn.navid.me/repos/about-x-light.svg" alt="X" height="30"></picture></a>
+<a href="https://instagram.com/thenavidm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-instagram-dark.svg"><img src="https://cdn.navid.me/repos/about-instagram-light.svg" alt="Instagram" height="30"></picture></a>
+<a href="https://linkedin.com/in/thenavidm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-linkedin-dark.svg"><img src="https://cdn.navid.me/repos/about-linkedin-light.svg" alt="LinkedIn" height="30"></picture></a>
+<a href="https://github.com/thenavidm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.navid.me/repos/about-github-dark.svg"><img src="https://cdn.navid.me/repos/about-github-light.svg" alt="More repos" height="30"></picture></a>
+
+</td>
+</tr>
+</table>
 
 ## Dependencies
 
